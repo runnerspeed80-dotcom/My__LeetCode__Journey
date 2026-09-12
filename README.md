@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/1051-height-checker) |
 | [1672-richest-customer-wealth](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -19,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Sorting
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
