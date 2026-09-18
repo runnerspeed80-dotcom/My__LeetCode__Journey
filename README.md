@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/1051-height-checker) |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0977-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
