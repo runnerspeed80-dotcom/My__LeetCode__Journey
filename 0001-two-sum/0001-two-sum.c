@@ -10,12 +10,12 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
             if(nums[i]+nums[j]==target && i!=j){
                 final[0]=i;
                 final[1]=j;
-                break;
+                
+                *returnSize =2;
+                return final;
             }        
         }            
     }
-
-    *returnSize = 2;
     return final;
 
 }
