@@ -1,6 +1,6 @@
 bool isPalindrome(char* s) {
-    char i = 0;
-    char j = strlen(s)-1;
+    int i = 0;
+    int j = strlen(s)-1;
 
 
     while(i<j){
