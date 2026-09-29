@@ -9,12 +9,11 @@ int* twoSum(int* numbers, int numbersSize, int target, int* returnSize) {
     int j = numbersSize-1;
 
     while(i<j){
-        int currentsum = numbers[i] + numbers[j];
         
-        if(currentsum<target){
+        if(numbers[i] + numbers[j]<target){
             i++;
         }
-        else if(currentsum>target){
+        else if(numbers[i] + numbers[j]>target){
             j--;
         }
         else{
