@@ -1,8 +1,7 @@
 int subtractProductAndSum(int n) {
-    int nn= n;
     int temp = 0;
-    int m = 1;
-    int a = 0;
+    int mult = 1;
+    int add = 0;
 
     if(n==0){
         return 0;
@@ -11,10 +10,10 @@ int subtractProductAndSum(int n) {
     while(n > 0){
         temp = n%10;
         n /=10;
-        m*=temp;
-        a+=temp;
+        mult*=temp;
+        add+=temp;
     }
 
-    int final = m-a;
+    int final = mult-add;
     return final;
 }
