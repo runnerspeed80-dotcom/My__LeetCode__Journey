@@ -1,19 +1,23 @@
-int comp(const void *x , const void *y){
-    return (*(int*)x -*(int*)y);
-}
-
-
 void merge(int* nums1, int nums1Size, int m, int* nums2, int nums2Size, int n) {
+    int ni = n-1;
+    int mi = m-1;
+    int mni = m+n-1;
 
-    int sum = n+m;
-    
-
-    for(int i = 0; i< n ; i++){
-        nums1[i+m] = nums2[i];  
+    while(ni>=0 && mi>=0){
+        if(nums2[ni] > nums1[mi]){
+            nums1[mni] = nums2[ni];
+            ni--;
+            mni--;
+        }
+        else{
+            nums1[mni] = nums1[mi];
+            mi--;
+            mni--;
+        }
     }
-    
-
-    qsort(nums1 , sum , sizeof(int), comp);
-
-    
+    while(ni>=0){
+        nums1[mni] = nums2[ni];
+        ni--;
+        mni--;
+    }
 }
