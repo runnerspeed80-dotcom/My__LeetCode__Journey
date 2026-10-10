@@ -6,5 +6,5 @@ int removeDuplicates(int* nums, int numsSize) {
             nums[pos] = nums[i];            
         }
     }
-    return pos+1;    
+    return pos+1;
 }
