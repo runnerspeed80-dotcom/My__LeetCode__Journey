@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/1051-height-checker) |
 ## Counting Sort
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
