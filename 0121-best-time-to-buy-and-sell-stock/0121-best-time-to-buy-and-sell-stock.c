@@ -1,19 +1,17 @@
 int maxProfit(int* prices, int pricesSize) {
-    if(pricesSize <2){return 0;}
-
+    if(pricesSize < 2){
+        return 0;
+    }
+    int small = 0;
     int profit = 0;
-    int min = prices[0];
 
-    for(int i = 1 ; i < pricesSize ; i++){
-        if(prices[i] < min){
-            min = prices[i];
+    for (int i = 0; i < pricesSize; i++) {
+        if (prices[i] < prices[small]) {
+            small = i;
         }
 
-        else{
-            int cprofit = prices[i] - min;
-            if(cprofit > profit){
-                profit = cprofit;
-            }
+        if (profit < prices[i] - prices[small]) {
+            profit = prices[i] - prices[small];
         }
     }
     return profit;
