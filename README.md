@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/1051-height-checker) |
 | [1672-richest-customer-wealth](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/1672-richest-customer-wealth) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/1051-height-checker) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
