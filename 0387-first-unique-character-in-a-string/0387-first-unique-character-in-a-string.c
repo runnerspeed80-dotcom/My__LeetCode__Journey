@@ -1,19 +1,19 @@
 int firstUniqChar(char* s) {
+
+    int arr[26] = {0};
     int len = strlen(s);
 
-    for (int i = 0; i < len; i++) {
-        int dup = 0;
-        for (int j = 0; j < len; j++) {
-            if (i != j && s[i] == s[j]) {
-                dup++;
-                break;
-            }
+    for(int i = 0; i < len ; i++){
+        int num = s[i] -'a';
+        arr[num]++;
+    }
 
-        }
-        if(dup == 0){
+    for(int i = 0; i< len ; i++){
+        int num = s[i] -'a';
+        if(arr[num]==1){
             return i;
         }
     }
-
     return -1;
+    
 }
