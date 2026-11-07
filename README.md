@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0066-plus-one) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
