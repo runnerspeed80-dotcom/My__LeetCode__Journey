@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Table
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/runnerspeed80-dotcom/My__LeetCode__Journey/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Binary Search
